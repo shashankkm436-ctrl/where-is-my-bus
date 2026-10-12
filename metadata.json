@@ -1,0 +1,6 @@
+{
+  "name": "KSRTC Where Is My Bus - Live Tracking",
+  "description": "Real-time live GPS tracking, route timetables, platform display boards, and PNR status across all 31 districts of Karnataka for Karnataka State Road Transport Corporation buses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
